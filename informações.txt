@@ -1,0 +1,6 @@
+Tecnologias usadas:
+
+Php 7.4
+Laravel 8
+Passport Authentication
+React Native
